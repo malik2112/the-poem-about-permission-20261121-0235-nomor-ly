@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/the-poem-about-permission-20261121-0235/malik2112/the-poem-about-permission-20261121-0235-nomor-ly/rank.svg)](https://make.fun/bounty/the-poem-about-permission-20261121-0235/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-permission-20261121-0235)
 [![reward](https://make.fun/badge/the-poem-about-permission-20261121-0235/malik2112/the-poem-about-permission-20261121-0235-nomor-ly/reward.svg)](https://make.fun/bounty/the-poem-about-permission-20261121-0235?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-permission-20261121-0235)
 
-One short poem about permission, written by `main.py` to `/output/entry.txt` for the make.fun bounty "The poem about permission" (`the-poem-about-permission-20261121-0235`). The program writes a fixed UTF-8 string, so both graded runs are byte-identical.
+One short poem about permission, written by `main.py` (Python 3.13, standard library only, no network) to `/output/entry.txt` for the make.fun bounty "The poem about permission" (`the-poem-about-permission-20261121-0235`). The program writes a fixed UTF-8 string, so both graded runs are byte-identical.
 
 ## Run it
 
